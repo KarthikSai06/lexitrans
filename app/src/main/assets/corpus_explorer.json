@@ -1,0 +1,266 @@
+{
+  "parallelPairs": [
+    {
+      "src": "hello",
+      "tgt": "ನಮಸ್ಕಾರ"
+    },
+    {
+      "src": "good morning",
+      "tgt": "ಶುಭೋದಯ"
+    },
+    {
+      "src": "good evening",
+      "tgt": "ಶುಭ ಸಂಜೆ"
+    },
+    {
+      "src": "welcome to our school",
+      "tgt": "ನಮ್ಮ ಶಾಲೆಗೆ ಸುಸ್ವಾಗತ"
+    },
+    {
+      "src": "thank you very much",
+      "tgt": "ನಿಮಗೆ ತುಂಬಾ ಧನ್ಯವಾದಗಳು"
+    },
+    {
+      "src": "how are you today",
+      "tgt": "ನೀವು ಇಂದು ಹೇಗಿದ್ದೀರಿ"
+    },
+    {
+      "src": "i am doing well",
+      "tgt": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ"
+    },
+    {
+      "src": "what is your name",
+      "tgt": "ನಿಮ್ಮ ಹೆಸರು ಏನು"
+    },
+    {
+      "src": "my name is anand",
+      "tgt": "ನನ್ನ ಹೆಸರು ಆನಂದ್"
+    },
+    {
+      "src": "where do you live",
+      "tgt": "ನೀವು ಎಲ್ಲಿ ವಾಸಿಸುತ್ತೀರಿ"
+    },
+    {
+      "src": "i live in bengaluru",
+      "tgt": "ನಾನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ವಾಸಿಸುತ್ತೇನೆ"
+    },
+    {
+      "src": "the weather is very pleasant today",
+      "tgt": "ಇಂದು ಹವಾಮಾನವು ತುಂಬಾ ಆಹ್ಲಾದಕರವಾಗಿದೆ"
+    },
+    {
+      "src": "it is raining heavily outside",
+      "tgt": "ಹೊರಗೆ ಜೋರಾಗಿ ಮಳೆ ಬರುತ್ತಿದೆ"
+    },
+    {
+      "src": "the sun shines brightly",
+      "tgt": "ಸೂರ್ಯನು ಪ್ರಕಾಶಮಾನವಾಗಿ ಬೆಳಗುತ್ತಾನೆ"
+    },
+    {
+      "src": "i want to drink clean water",
+      "tgt": "ನಾನು ಸ್ವಚ್ಛ ನೀರನ್ನು ಕುಡಿಯಲು ಬಯಸುತ್ತೇನೆ"
+    },
+    {
+      "src": "we need healthy food",
+      "tgt": "ನಮಗೆ ಆರೋಗ್ಯಕರ ಆಹಾರ ಬೇಕು"
+    },
+    {
+      "src": "where is the nearest hospital",
+      "tgt": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ"
+    },
+    {
+      "src": "the doctor is examining the patient",
+      "tgt": "ವೈದ್ಯರು ರೋಗಿಯನ್ನು ತಪಾಸಣೆ ಮಾಡುತ್ತಿದ್ದಾರೆ"
+    },
+    {
+      "src": "take this medicine twice a day",
+      "tgt": "ಈ ಔಷಧಿಯನ್ನು ದಿನಕ್ಕೆ ಎರಡು ಬಾರಿ ತೆಗೆದುಕೊಳ್ಳಿ"
+    },
+    {
+      "src": "she went to the market to buy fruits",
+      "tgt": "ಅವಳು ಹಣ್ಣುಗಳನ್ನು ಖರೀದಿಸಲು ಮಾರುಕಟ್ಟೆಗೆ ಹೋದಳು"
+    },
+    {
+      "src": "how much does this book cost",
+      "tgt": "ಈ ಪುಸ್ತಕದ ಬೆಲೆ ಎಷ್ಟು"
+    },
+    {
+      "src": "i want to buy three books",
+      "tgt": "ನಾನು ಮೂರು ಪುಸ್ತಕಗಳನ್ನು ಖರೀದಿಸಲು ಬಯಸುತ್ತೇನೆ"
+    },
+    {
+      "src": "he is reading an interesting book",
+      "tgt": "ಅವನು ಒಂದು ಆಸಕ್ತಿದಾಯಕ ಪುಸ್ತಕವನ್ನು ಓದುತ್ತಿದ್ದಾನೆ"
+    },
+    {
+      "src": "the children are playing in the ground",
+      "tgt": "ಮಕ್ಕಳು ಮೈದಾನದಲ್ಲಿ ಆಟವಾಡುತ್ತಿದ್ದಾರೆ"
+    },
+    {
+      "src": "education brings great opportunities",
+      "tgt": "ಶಿಕ್ಷಣವು ಉತ್ತಮ ಅವಕಾಶಗಳನ್ನು ತರುತ್ತದೆ"
+    },
+    {
+      "src": "the teacher explains the lesson clearly",
+      "tgt": "ಶಿಕ್ಷಕರು ಪಾಠವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ವಿವರಿಸುತ್ತಾರೆ"
+    },
+    {
+      "src": "mobile phones help people communicate across the world",
+      "tgt": "ಮೊಬೈಲ್ ಫೋನ್‌ಗಳು ಪ್ರಪಂಚದಾದ್ಯಂತ ಜನರು ಸಂವಹನ ನಡೆಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ"
+    },
+    {
+      "src": "the computer is working fast",
+      "tgt": "ಕಂಪ್ಯೂಟರ್ ವೇಗವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ"
+    },
+    {
+      "src": "we learn natural language processing",
+      "tgt": "ನಾವು ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇವೆ"
+    },
+    {
+      "src": "machine translation connects different languages",
+      "tgt": "ಯಂತ್ರ ಅನುವಾದವು ವಿವಿಧ ಭಾಷೆಗಳನ್ನು ಸಂಪರ್ಕಿಸುತ್ತದೆ"
+    },
+    {
+      "src": "low resource languages need special computational techniques",
+      "tgt": "ಕಡಿಮೆ ಸಂಪನ್ಮೂಲ ಭಾಷೆಗಳಿಗೆ ವಿಶೇಷ ಕಂಪ್ಯೂಟೇಶನಲ್ ತಂತ್ರಗಳ ಅಗತ್ಯವಿದೆ"
+    },
+    {
+      "src": "artificial intelligence is advancing rapidly",
+      "tgt": "ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯು ವೇಗವಾಗಿ ಮುಂದುವರಿಯುತ್ತಿದೆ"
+    },
+    {
+      "src": "he travels by bus every day",
+      "tgt": "ಅವನು ಪ್ರತಿದಿನ ಬಸ್‌ನಲ್ಲಿ ಪ್ರಯಾಣಿಸುತ್ತಾನೆ"
+    },
+    {
+      "src": "the train arrives at twelve o'clock",
+      "tgt": "ರೈಲು ಹನ್ನೆರಡು ಗಂಟೆಗೆ ಬರುತ್ತದೆ"
+    },
+    {
+      "src": "i lost my way in the big city",
+      "tgt": "ದೊಡ್ಡ ನಗರದಲ್ಲಿ ನಾನು ದಾರಿ ತಪ್ಪಿದೆ"
+    },
+    {
+      "src": "can you show me the road to the station",
+      "tgt": "ನಿಲ್ದಾಣಕ್ಕೆ ಹೋಗುವ ದಾರಿಯನ್ನು ನನಗೆ ತೋರಿಸಬಲ್ಲಿರಾ"
+    },
+    {
+      "src": "we love clean energy and green nature",
+      "tgt": "ನಾವು ಶುದ್ಧ ಇಂಧನ ಮತ್ತು ಹಸಿರು ಪ್ರಕೃತಿಯನ್ನು ಪ್ರೀತಿಸುತ್ತೇವೆ"
+    },
+    {
+      "src": "trees give us clean air to breathe",
+      "tgt": "ಮರಗಳು ನಮಗೆ ಉಸಿರಾಡಲು ಶುದ್ಧ ಗಾಳಿಯನ್ನು ನೀಡುತ್ತವೆ"
+    },
+    {
+      "src": "water is the source of all life",
+      "tgt": "ನೀರು ಎಲ್ಲಾ ಜೀವಿಗಳ ಮೂಲವಾಗಿದೆ"
+    },
+    {
+      "src": "farmers grow vegetables in their fields",
+      "tgt": "ರೈತರು ತಮ್ಮ ಹೊಲಗಳಲ್ಲಿ ತರಕಾರಿಗಳನ್ನು ಬೆಳೆಯುತ್ತಾರೆ"
+    },
+    {
+      "src": "the agricultural harvest was plentiful this year",
+      "tgt": "ಈ ವರ್ಷ ಕೃಷಿ ಬೆಳೆ ಸಮೃದ್ಧವಾಗಿತ್ತು"
+    },
+    {
+      "src": "she studies science and modern technology",
+      "tgt": "ಅವಳು ವಿಜ್ಞಾನ ಮತ್ತು ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನವನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಾಳೆ"
+    },
+    {
+      "src": "knowledge gives strength to society",
+      "tgt": "ಜ್ಞಾನವು ಸಮಾಜಕ್ಕೆ ಶಕ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ"
+    },
+    {
+      "src": "peace and harmony build great nations",
+      "tgt": "ಶಾಂತಿ ಮತ್ತು ಸಾಮರಸ್ಯವು ಮಹಾನ್ ರಾಷ್ಟ್ರಗಳನ್ನು ನಿರ್ಮಿಸುತ್ತವೆ"
+    },
+    {
+      "src": "the vegetable market is crowded with people",
+      "tgt": "ತರಕಾರಿ ಮಾರುಕಟ್ಟೆಯು ಜನರಿಂದ ತುಂಬಿದೆ"
+    },
+    {
+      "src": "buy fresh fruits from local farmers",
+      "tgt": "ಸ್ಥಳೀಯ ರೈತರಿಂದ ತಾಜಾ ಹಣ್ಣುಗಳನ್ನು ಖರೀದಿಸಿ"
+    },
+    {
+      "src": "i speak english and kannada fluently",
+      "tgt": "ನಾನು ಇಂಗ್ಲಿಷ್ ಮತ್ತು ಕನ್ನಡವನ್ನು ನಿರರ್ಗಳವಾಗಿ ಮಾತನಾಡುತ್ತೇನೆ"
+    },
+    {
+      "src": "learning a new language requires patience and practice",
+      "tgt": "ಹೊಸ ಭಾಷೆಯನ್ನು ಕಲಿಯಲು ತಾಳ್ಮೆ ಮತ್ತು ಅಭ್ಯಾಸದ ಅಗತ್ಯವಿದೆ"
+    },
+    {
+      "src": "do not forget to close the door",
+      "tgt": "ಬಾಗಿಲನ್ನು ಮುಚ್ಚಲು ಮರೆಯಬೇಡಿ"
+    },
+    {
+      "src": "open your notebook and write chapter one",
+      "tgt": "ನಿಮ್ಮ ನೋಟ್‌ಬುಕ್ ತೆರೆದು ಮೊದಲ ಅಧ್ಯಾಯವನ್ನು ಬರೆಯಿರಿ"
+    }
+  ],
+  "backTranslationPairs": [
+    {
+      "src": "this meal is very delicious",
+      "tgt": "ಈ ಊಟವು ತುಂಬಾ ರುಚಿಕರವಾಗಿದೆ"
+    },
+    {
+      "src": "education is the true light of life",
+      "tgt": "ಶಿಕ್ಷಣವೇ ಜೀವನದ ನಿಜವಾದ ಬೆಳಕು"
+    },
+    {
+      "src": "our hospital needs skilled doctors",
+      "tgt": "ನಮ್ಮ ಆಸ್ಪತ್ರೆಗೆ ನುರಿತ ವೈದ್ಯರ ಅಗತ್ಯವಿದೆ"
+    },
+    {
+      "src": "children like to read stories",
+      "tgt": "ಮಕ್ಕಳು ಕಥೆಗಳನ್ನು ಓದಲು ಇಷ್ಟಪಡುತ್ತಾರೆ"
+    },
+    {
+      "src": "the sun illuminates the entire village",
+      "tgt": "ಸೂರ್ಯನು ಇಡೀ ಊರನ್ನು ಬೆಳಗಿಸುತ್ತಾನೆ"
+    },
+    {
+      "src": "green trees bring clean air",
+      "tgt": "ಹಸಿರು ಮರಗಳು ಶುದ್ಧ ಗಾಳಿಯನ್ನು ತರುತ್ತವೆ"
+    },
+    {
+      "src": "mobile has made communication very easy",
+      "tgt": "ಮೊಬೈಲ್ ಸಂವಹನವನ್ನು ತುಂಬಾ ಸುಲಭಗೊಳಿಸಿದೆ"
+    },
+    {
+      "src": "we desire peace and harmony",
+      "tgt": "ನಾವು ಶಾಂತಿ ಮತ್ತು ಸೌಹಾರ್ದತೆಯನ್ನು ಬಯಸುತ್ತೇವೆ"
+    },
+    {
+      "src": "the river water is completely clean",
+      "tgt": "ನದಿಯ ನೀರು ಸಂಪೂರ್ಣವಾಗಿ ಶುದ್ಧವಾಗಿದೆ"
+    },
+    {
+      "src": "teachers instruct students with affection",
+      "tgt": "ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪ್ರೀತಿಯಿಂದ ಬೋಧಿಸುತ್ತಾರೆ"
+    },
+    {
+      "src": "youth are learning new technologies",
+      "tgt": "ಯುವಕರು ಹೊಸ ತಂತ್ರಜ್ಞಾನಗಳನ್ನು ಕಲಿಯುತ್ತಿದ್ದಾರೆ"
+    },
+    {
+      "src": "this software is helpful to all customers",
+      "tgt": "ಈ ತಂತ್ರಾಂಶವು ಎಲ್ಲಾ ಗ್ರಾಹಕರಿಗೆ ಸಹಕಾರಿಯಾಗಿದೆ"
+    },
+    {
+      "src": "we are building a strong nation",
+      "tgt": "ನಾವು ಬಲಿಷ್ಠ ರಾಷ್ಟ್ರವನ್ನು ಕಟ್ಟುತ್ತಿದ್ದೇವೆ"
+    },
+    {
+      "src": "this ayurvedic medicine reduces fever",
+      "tgt": "ಈ ಆಯುರ್ವೇದ ಔಷಧಿಯು ಜ್ವರವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ"
+    },
+    {
+      "src": "the bus journey was very pleasant",
+      "tgt": "ಬಸ್ ಪ್ರಯಾಣವು ಬಹಳ ಆಹ್ಲಾದಕರವಾಗಿತ್ತು"
+    }
+  ]
+}

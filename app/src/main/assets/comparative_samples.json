@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "direction": "EN_TO_KN",
+    "source": "welcome to our school",
+    "reference": "ನಮ್ಮ ಶಾಲೆಗೆ ಸುಸ್ವಾಗತ",
+    "baseline": "ನಮ್ಮ <unk> ಸುಸ್ವಾಗತ",
+    "bpe": "ನಮ್ಮ ಶಾಲೆಗೆ ಸುಸ್ವಾಗತ",
+    "augmentation": "ನಮ್ಮ ಶಾಲೆಗೆ ಸುಸ್ವಾಗತ",
+    "transfer": "ನಮ್ಮ ಶಾಲೆಗೆ ಸುಸ್ವಾಗತ"
+  },
+  {
+    "id": 2,
+    "direction": "EN_TO_KN",
+    "source": "where is the nearest hospital",
+    "reference": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ",
+    "baseline": "<unk> ಆಸ್ಪತ್ರೆ <unk>",
+    "bpe": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ",
+    "augmentation": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ",
+    "transfer": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ"
+  },
+  {
+    "id": 3,
+    "direction": "EN_TO_KN",
+    "source": "we learn natural language processing",
+    "reference": "ನಾವು ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇವೆ",
+    "baseline": "ನಾವು <unk> ಭಾಷಾ <unk> <unk>",
+    "bpe": "ನಾವು ನೈ·ಸರ್ಗಿ·ಕ ಭಾಷಾ ಸಂಸ್ಕರಣೆ ಕಲಿಯುತ್ತಿದ್ದೇವೆ",
+    "augmentation": "ನಾವು ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇವೆ",
+    "transfer": "ನಾವು ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇವೆ"
+  },
+  {
+    "id": 4,
+    "direction": "EN_TO_KN",
+    "source": "clean drinking water prevents many diseases",
+    "reference": "ಶುದ್ಧ ಕುಡಿಯುವ ನೀರು ಅನೇಕ ರೋಗಗಳನ್ನು ತಡೆಯುತ್ತದೆ",
+    "baseline": "ಶುದ್ಧ ನೀರು <unk> <unk>",
+    "bpe": "ಶುದ್ಧ ಕುಡಿಯುವ ನೀರು ಅನೇಕ ರೋಗ·ಗಳನ್ನು ತಡೆಯುತ್ತದೆ",
+    "augmentation": "ಶುದ್ಧ ಕುಡಿಯುವ ನೀರು ಅನೇಕ ರೋಗಗಳನ್ನು ತಡೆಯುತ್ತದೆ",
+    "transfer": "ಶುದ್ಧ ಕುಡಿಯುವ ನೀರು ಅನೇಕ ರೋಗಗಳನ್ನು ತಡೆಯುತ್ತದೆ"
+  },
+  {
+    "id": 5,
+    "direction": "EN_TO_KN",
+    "source": "mobile phones help people communicate across the world",
+    "reference": "ಮೊಬೈಲ್ ಫೋನ್‌ಗಳು ಪ್ರಪಂಚದಾದ್ಯಂತ ಜನರು ಸಂವಹನ ನಡೆಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+    "baseline": "ಮೊಬೈಲ್ <unk> ಜನರು <unk> ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+    "bpe": "ಮೊಬೈಲ್ ಫೋನ್·ಗಳು ಪ್ರಪಂಚದಾದ್ಯಂತ ಜನರು ಸಂವಹನ ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+    "augmentation": "ಮೊಬೈಲ್ ಫೋನ್‌ಗಳು ಪ್ರಪಂಚದಾದ್ಯಂತ ಜನರು ಸಂವಹನ ನಡೆಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+    "transfer": "ಮೊಬೈಲ್ ಫೋನ್‌ಗಳು ಪ್ರಪಂಚದಾದ್ಯಂತ ಜನರು ಸಂವಹನ ನಡೆಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ"
+  },
+  {
+    "id": 6,
+    "direction": "KN_TO_EN",
+    "source": "ನಮ್ಮ ಶಾಲೆಗೆ ಸುಸ್ವಾಗತ",
+    "reference": "welcome to our school",
+    "baseline": "<unk> to our school",
+    "bpe": "welcome to our school",
+    "augmentation": "welcome to our school",
+    "transfer": "welcome to our school"
+  },
+  {
+    "id": 7,
+    "direction": "KN_TO_EN",
+    "source": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ",
+    "reference": "where is the nearest hospital",
+    "baseline": "<unk> hospital where",
+    "bpe": "where is the near·est hospital",
+    "augmentation": "where is the nearest hospital",
+    "transfer": "where is the nearest hospital"
+  },
+  {
+    "id": 8,
+    "direction": "KN_TO_EN",
+    "source": "ನಾವು ನೈಸರ್ಗಿಕ ಭಾಷಾ ಸಂಸ್ಕರಣೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇವೆ",
+    "reference": "we learn natural language processing",
+    "baseline": "we learn <unk> language <unk>",
+    "bpe": "we learn natural language process·ing",
+    "augmentation": "we learn natural language processing",
+    "transfer": "we learn natural language processing"
+  },
+  {
+    "id": 9,
+    "direction": "KN_TO_EN",
+    "source": "ಶುದ್ಧ ಕುಡಿಯುವ ನೀರು ಅನೇಕ ರೋಗಗಳನ್ನು ತಡೆಯುತ್ತದೆ",
+    "reference": "clean drinking water prevents many diseases",
+    "baseline": "clean water <unk> diseases",
+    "bpe": "clean drink·ing water prevents many diseases",
+    "augmentation": "clean drinking water prevents many diseases",
+    "transfer": "clean drinking water prevents many diseases"
+  },
+  {
+    "id": 10,
+    "direction": "KN_TO_EN",
+    "source": "ಕಂಪ್ಯೂಟರ್ ವೇಗವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ",
+    "reference": "the computer is working fast",
+    "baseline": "computer <unk> work fast",
+    "bpe": "the computer is work·ing fast",
+    "augmentation": "the computer is working fast",
+    "transfer": "the computer is working fast"
+  }
+]

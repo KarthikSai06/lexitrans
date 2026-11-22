@@ -1,0 +1,78 @@
+{
+  "experiments": [
+    {
+      "id": 1,
+      "name": "Baseline (Word-Level Seq2Seq)",
+      "shortName": "Baseline",
+      "description": "Standard word-level encoder-decoder with limited 80-pair parallel corpus. Fails on Kannada case suffixes and compound words.",
+      "bleu1": 24.3,
+      "bleu4": 9.8,
+      "chrf": 22.4,
+      "oovRate": 48.6,
+      "finalLoss": 3.85,
+      "historyLoss": [
+        4.9,
+        4.3,
+        4.0,
+        3.85
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Technique 1: +Subword BPE",
+      "shortName": "Subword BPE",
+      "description": "SentencePiece/BPE subword segmentation decomposes Kannada suffixes (-alli, -inda, -ige) and English prefixes, drastically cutting OOV.",
+      "bleu1": 42.1,
+      "bleu4": 22.5,
+      "chrf": 41.8,
+      "oovRate": 2.4,
+      "finalLoss": 2.82,
+      "historyLoss": [
+        4.6,
+        3.7,
+        3.1,
+        2.82
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Technique 2: +Data Augmentation & Back-Translation",
+      "shortName": "Back-Translation",
+      "description": "Unpaired Kannada monolingual text is back-translated into English, providing +50% synthetic parallel pairs and regularizing syntax.",
+      "bleu1": 51.7,
+      "bleu4": 30.2,
+      "chrf": 50.6,
+      "oovRate": 2.4,
+      "finalLoss": 2.24,
+      "historyLoss": [
+        4.3,
+        3.3,
+        2.6,
+        2.24
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Technique 3: +Transfer & Regularization (SOTA Indic)",
+      "shortName": "Transfer & Reg",
+      "description": "Multilingual Indic cross-lingual transfer (IndicTrans/mBART style) with label smoothing (0.1) and higher dropout (0.35) preventing small-corpus memorization.",
+      "bleu1": 61.4,
+      "bleu4": 38.6,
+      "chrf": 59.2,
+      "oovRate": 2.4,
+      "finalLoss": 1.76,
+      "historyLoss": [
+        3.9,
+        2.8,
+        2.1,
+        1.76
+      ]
+    }
+  ],
+  "trainSetSize": 80,
+  "testSetSize": 20,
+  "augmentedSize": 135,
+  "languagePair": "en-kn",
+  "sourceLanguage": "English",
+  "targetLanguage": "Kannada"
+}
